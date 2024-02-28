@@ -1,6 +1,6 @@
 Arena
 
-Welcome to Phaser Playland, your one-stop shop for managing and enjoying a collection of Phaser games! This project provides a robust and user-friendly platform to:
+A Blockchain Bet Game Platform Prototype. Where you will be able to bet in games using smart contracts and cryptocurrency 
 
     Organize: Maintain a categorized library of your favorite Phaser games.
     Launch: Play any game with ease, directly from the platform.
